@@ -1,0 +1,4 @@
+Hello new user!
+Thank you for switching to GoldplatedOS. It may require the installment of a few Python modules, but that is not too hard to do. This OS includes many wonderful apps, features, and commands that help a lot for scholars, writers, and programmers alike. Its UI is based on Unix, and works best on MacOS. There will be a graphical user interface somewhere down the line, but that will not be very soon, as Tkinter is not one of BeeDev’s (the creator of GOS) strong forts.
+Yours,
+GOS Creators
